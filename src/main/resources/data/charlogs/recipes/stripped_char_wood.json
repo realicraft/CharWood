@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "key": {
+    "#": {
+      "item": "charlogs:stripped_char_log"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "item": "charlogs:stripped_char_wood"
+  }
+}

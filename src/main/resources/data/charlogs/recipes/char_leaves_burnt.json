@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "tag": "minecraft:leaves"
+      },{
+        "tag": "minecraft:leaves"
+      },{
+        "tag": "minecraft:leaves"
+      },{
+        "tag": "minecraft:leaves"
+      },{
+        "tag": "minecraft:leaves"
+      },{
+        "tag": "minecraft:leaves"
+      },{
+        "tag": "minecraft:leaves"
+      },{
+        "tag": "minecraft:leaves"
+      },{
+        "tag": "minecraft:coals"
+      }
+  ],
+  "result": {
+    "count": 8,
+    "item": "charlogs:char_sapling"
+  }
+}

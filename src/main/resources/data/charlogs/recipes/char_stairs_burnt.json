@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "tag": "minecraft:wooden_stairs"
+      },{
+        "tag": "minecraft:wooden_stairs"
+      },{
+        "tag": "minecraft:wooden_stairs"
+      },{
+        "tag": "minecraft:wooden_stairs"
+      },{
+        "tag": "minecraft:wooden_stairs"
+      },{
+        "tag": "minecraft:coals"
+      }
+  ],
+  "result": {
+    "count": 5,
+    "item": "charlogs:char_stairs"
+  }
+}

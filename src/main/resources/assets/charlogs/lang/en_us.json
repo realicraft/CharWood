@@ -1,0 +1,21 @@
+{
+  "block.charlogs.char_planks": "Charred Planks",
+  "block.charlogs.char_log": "Charred Log",
+  "block.charlogs.char_stairs": "Charred Stairs",
+  "block.charlogs.char_slab": "Charred Slab",
+  "block.charlogs.char_door": "Charred Door",
+  "block.charlogs.char_trapdoor": "Charred Trapdoor",
+  "block.charlogs.char_wood": "Charred Wood",
+  "block.charlogs.stripped_char_log": "Stripped Charred Log",
+  "block.charlogs.stripped_char_wood": "Stripped Charred Wood",
+  "block.charlogs.char_fence": "Charred Fence",
+  "block.charlogs.char_fence_gate": "Charred Fence Gate",
+  "block.charlogs.char_button": "Charred Button",
+  "block.charlogs.char_pressure_plate": "Charred Pressure Plate",
+  "block.charlogs.char_sapling": "Charred Sapling",
+  "block.charlogs.char_leaves": "Charred Leaves",
+
+  "itemGroup.charlogstab": "Charred Wood",
+
+  "tip.charlogs.charwood": "You can craft logs and planks with coal or charcoal to char them."
+}

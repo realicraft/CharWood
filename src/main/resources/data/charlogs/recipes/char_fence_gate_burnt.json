@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "tag": "forge:fence_gates/wooden"
+      },{
+        "tag": "forge:fence_gates/wooden"
+      },{
+        "tag": "minecraft:coals"
+      }
+  ],
+  "result": {
+    "count": 2,
+    "item": "charlogs:char_fence_gate"
+  }
+}

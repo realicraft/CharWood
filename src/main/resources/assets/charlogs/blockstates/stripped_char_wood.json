@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "charlogs:block/stripped_char_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "charlogs:block/stripped_char_wood"
+    },
+    "axis=z": {
+      "model": "charlogs:block/stripped_char_wood",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "tag": "minecraft:wooden_pressure_plates"
+      },{
+        "tag": "minecraft:wooden_pressure_plates"
+      },{
+        "tag": "minecraft:wooden_pressure_plates"
+      },{
+        "tag": "minecraft:wooden_pressure_plates"
+      },{
+        "tag": "minecraft:coals"
+      }
+  ],
+  "result": {
+    "count": 4,
+    "item": "charlogs:char_pressure_plate"
+  }
+}

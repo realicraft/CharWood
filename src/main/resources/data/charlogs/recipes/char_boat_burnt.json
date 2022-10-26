@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "tag": "minecraft:boats"
+      },{
+        "tag": "minecraft:boats"
+      },{
+        "tag": "minecraft:boats"
+      },{
+        "tag": "minecraft:boats"
+      },{
+        "tag": "minecraft:coals"
+      },{
+        "tag": "minecraft:coals"
+      }
+  ],
+  "result": {
+    "count": 4,
+    "item": "charlogs:char_boat"
+  }
+}

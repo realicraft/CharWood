@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "tag": "charlogs:planks_that_burn"
+      },{
+        "tag": "charlogs:planks_that_burn"
+      },{
+        "tag": "charlogs:planks_that_burn"
+      },{
+        "tag": "charlogs:planks_that_burn"
+      },{
+        "tag": "charlogs:planks_that_burn"
+      },{
+        "tag": "charlogs:planks_that_burn"
+      },{
+        "tag": "charlogs:planks_that_burn"
+      },{
+        "tag": "charlogs:planks_that_burn"
+      },{
+        "tag": "minecraft:coals"
+      }
+  ],
+  "result": {
+    "count": 8,
+    "item": "charlogs:char_planks"
+  }
+}

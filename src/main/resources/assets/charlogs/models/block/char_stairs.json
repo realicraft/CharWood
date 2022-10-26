@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "charlogs:block/char_planks",
+    "side": "charlogs:block/char_planks",
+    "top": "charlogs:block/char_planks"
+  }
+}

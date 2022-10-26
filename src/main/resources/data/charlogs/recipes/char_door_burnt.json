@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "tag": "minecraft:wooden_doors"
+      },{
+        "tag": "minecraft:wooden_doors"
+      },{
+        "tag": "minecraft:wooden_doors"
+      },{
+        "tag": "minecraft:wooden_doors"
+      },{
+        "tag": "minecraft:coals"
+      },{
+        "tag": "minecraft:coals"
+      },{
+        "tag": "minecraft:coals"
+      }
+  ],
+  "result": {
+    "count": 4,
+    "item": "charlogs:char_door"
+  }
+}

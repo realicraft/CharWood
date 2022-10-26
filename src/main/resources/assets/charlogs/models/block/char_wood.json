@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "charlogs:block/char_log",
+    "side": "charlogs:block/char_log"
+  }
+}

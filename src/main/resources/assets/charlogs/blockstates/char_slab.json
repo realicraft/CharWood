@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "charlogs:block/char_slab"
+    },
+    "type=double": {
+      "model": "charlogs:block/char_planks"
+    },
+    "type=top": {
+      "model": "charlogs:block/char_slab_top"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "charlogs:char_logs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "charlogs:char_planks"
+  }
+}

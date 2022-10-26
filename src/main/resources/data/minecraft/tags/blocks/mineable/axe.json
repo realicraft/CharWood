@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "charlogs:char_planks",
+    "charlogs:char_log",
+    "charlogs:char_wood",
+    "charlogs:stripped_char_log",
+    "charlogs:stripped_char_wood",
+    "charlogs:char_door",
+    "charlogs:char_trapdoor",
+    "charlogs:char_fence",
+    "charlogs:char_fence_gate",
+    "charlogs:char_stairs",
+    "charlogs:char_slab"
+  ]
+}

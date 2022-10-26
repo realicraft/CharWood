@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "tag": "minecraft:signs"
+      },{
+        "tag": "minecraft:signs"
+      },{
+        "tag": "minecraft:signs"
+      },{
+        "tag": "minecraft:signs"
+      },{
+        "tag": "minecraft:coals"
+      }
+  ],
+  "result": {
+    "count": 4,
+    "item": "charlogs:char_sign"
+  }
+}

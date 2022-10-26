@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "tag": "minecraft:saplings"
+      },{
+        "tag": "minecraft:saplings"
+      },{
+        "tag": "minecraft:saplings"
+      },{
+        "tag": "minecraft:saplings"
+      },{
+        "tag": "minecraft:saplings"
+      },{
+        "tag": "minecraft:saplings"
+      },{
+        "tag": "minecraft:saplings"
+      },{
+        "tag": "minecraft:saplings"
+      },{
+        "tag": "minecraft:coals"
+      }
+  ],
+  "result": {
+    "count": 8,
+    "item": "charlogs:char_sapling"
+  }
+}

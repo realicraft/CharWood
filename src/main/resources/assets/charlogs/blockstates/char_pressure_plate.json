@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "charlogs:block/char_pressure_plate"
+    },
+    "powered=true": {
+      "model": "charlogs:block/char_pressure_plate_down"
+    }
+  }
+}

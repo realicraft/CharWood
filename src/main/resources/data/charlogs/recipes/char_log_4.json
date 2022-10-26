@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "charred_log",
+  "ingredients": [
+      {
+        "tag": "minecraft:logs_that_burn"
+      },{
+        "tag": "minecraft:logs_that_burn"
+      },{
+        "tag": "minecraft:logs_that_burn"
+      },{
+        "tag": "minecraft:logs_that_burn"
+      },{
+        "tag": "minecraft:coals"
+      },{
+        "tag": "minecraft:coals"
+      }
+  ],
+  "result": {
+    "count": 4,
+    "item": "charlogs:char_log"
+  }
+}
